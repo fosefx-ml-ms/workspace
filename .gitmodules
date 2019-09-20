@@ -4,3 +4,6 @@
 [submodule "rest-api"]
 	path = rest-api
 	url = git@github.com:fosefx-ml-ms/rest-api.git
+[submodule "ML-backend"]
+	path = ML-backend
+	url = git@github.com:fosefx-ml-ms/ML-backend.git
