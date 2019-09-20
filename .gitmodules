@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:fosefx-ml-ms/frontend.git
+[submodule "rest-api"]
+	path = rest-api
+	url = git@github.com:fosefx-ml-ms/rest-api.git
