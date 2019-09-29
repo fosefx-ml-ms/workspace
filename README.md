@@ -1,5 +1,5 @@
 # workspace
-A repo containig all repos and global-level issues
+A repo containing all repos and global-level issues
 > Because this wont be up to date all the time run `git submodule update --recursive`
 
 # How it works
